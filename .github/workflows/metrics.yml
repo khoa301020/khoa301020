@@ -24,7 +24,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, scss, blade
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -36,6 +36,6 @@ jobs:
           plugin_anilist_user: khoa301020
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
-          plugin_anilist_limit: 5
+          plugin_anilist_limit: 1
           
           plugin_traffic: yes
