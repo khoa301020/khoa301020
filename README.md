@@ -1,16 +1,14 @@
-### Hi there 👋
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
+    <img style='position:absolute; z-index:2;' src='https://raw.githubusercontent.com/khoa301020/khoa301020/main/NT_Index_v11_135.png' width='300px' alt="00.webp"/>
+</div> 
 
-<!--
-**khoa301020/khoa301020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Self Introduction
 
-Here are some ideas to get you started:
+A gacha game enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Overall Status
+
+[![Beast666's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoa301020&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=khoa301020)
