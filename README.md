@@ -11,4 +11,4 @@ A gacha game enthusiast
 
 [![Beast666's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoa301020&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=khoa301020)
+![:name](https://count.getloli.com/get/@Mika3K?theme=rule34)
